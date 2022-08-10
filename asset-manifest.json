@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bettertodolist/static/css/main.67103839.css",
+    "main.js": "/bettertodolist/static/js/main.88704bdb.js",
+    "index.html": "/bettertodolist/index.html",
+    "main.67103839.css.map": "/bettertodolist/static/css/main.67103839.css.map",
+    "main.88704bdb.js.map": "/bettertodolist/static/js/main.88704bdb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67103839.css",
+    "static/js/main.88704bdb.js"
+  ]
+}
