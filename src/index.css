@@ -2,7 +2,7 @@ body{
     background-color: coral;
 }
 
-/*move MainApp to the centre*/
+/*center MainApp, and make its position not changeable*/
 .MainApp{
     position: absolute;
     top: 50%;
