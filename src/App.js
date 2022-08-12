@@ -30,6 +30,7 @@ const handleDelete = (taskIdToRemove) => {
 
   return (
     <div className="MainApp">
+      <img src='https://i.ytimg.com/vi/0KaKNna5ACY/mqdefault.jpg'/>
       <h1 className = "App">
         To do List
       </h1>
